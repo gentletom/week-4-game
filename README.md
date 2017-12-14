@@ -17,7 +17,5 @@
 
 ###### Each crystal should have a random hidden value between 1 - 12
 
-Heroku: https://intense-anchorage-88733.herokuapp.com/
-
 
 
